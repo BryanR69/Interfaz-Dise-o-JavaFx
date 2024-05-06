@@ -18,7 +18,7 @@ Esta aplicación crea una interfaz de usuario con un VBox en el lado izquierdo q
 
 ## Captura de Pantalla
 
-![Captura de pantalla](Captura de pantalla 2024-05-05 200212.png)
+![Captura de pantalla](https://github.com/BryanR69/Interfaz-Dise-o-JavaFx/blob/main/Captura%20de%20pantalla%202024-05-05%20200212.png)
 
 ## Cómo Usar
 
